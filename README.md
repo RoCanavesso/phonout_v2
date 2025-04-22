@@ -7,7 +7,7 @@
 * Lucas Antunes Sampaio - R.A: 24.122.056-5
 * Romulo Carneiro de Oliveira Canavesso - R.A: 24.122.093-8
 
-## Sobre o repositório
+## Sobre o projeto
+Este projeto tem como objetivo oferecer aos usuários maior controle sobre o uso de aplicativos em seus dispositivos, promovendo foco, produtividade e, quando necessário, restrições de uso com segurança.
 
-
-
+Logo, nosso foco é desenvolver um sistema que permita a restrição temporária ou não temporária de acesso a aplicativos específicos de celulares, com suporte a diferentes perfis de usuário (User e Admin, para controles parentais), autenticação segura e opções de configuração personalizadas.
